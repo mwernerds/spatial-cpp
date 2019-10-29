@@ -1,0 +1,6 @@
+*.csv
+00_points
+01_sphere
+02_simplefeatures
+*.wkt
+03_rtree
